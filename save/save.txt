@@ -1,0 +1,4 @@
+skin:1:
+money:11:
+bought_skin_2:1:
+best_score:3225:
